@@ -1,2 +1,2 @@
-# DevOps-Projects-1-
+# DevOps-Projects-1
 Web Stack Implementation
